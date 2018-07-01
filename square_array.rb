@@ -1,3 +1,3 @@
-def square_array(array)
+5def square_array(array)
   # your code here
 end
